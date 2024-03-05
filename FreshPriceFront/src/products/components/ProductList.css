@@ -1,0 +1,25 @@
+.product-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+
+.product-list center{
+  margin: 15px;
+}
+
+.gif{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Monospace;
+}
+
+
+.link{
+  text-decoration: none; 
+  color:white
+}
